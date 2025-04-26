@@ -1,5 +1,3 @@
-# Questao 4 - Matheus Silveira e Marcos Brandão
-
 print('Calculador de Salário de Professor')
 print('---------------------------------')
 valor_hora=float(input("Digite o Valor de sua hora aula: "))

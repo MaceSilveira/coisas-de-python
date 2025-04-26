@@ -1,5 +1,3 @@
-# Questao 2 - Matheus Silveira e Marcos Brandão
-
 num1=float(input("Digite o primeiro numero: "))*1
 num2=float(input("Digite o segundo numero: "))*2
 num3=float(input("Digite o terceiro numero: "))*3
